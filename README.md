@@ -16,5 +16,8 @@
 <img src="./Im_speechless_I_cant_continue_talking_with_you/pythonmind.png" width="200" height="200" />
 
 ## 你还能有XXX聪明？
+### 你还能有微软聪明？
+<img src="./Could_you_possibly_be_any_smarter_than_XXX/microsoft.png" width="200" height="200" />
+
 ### 你还能有借用检查器聪明？
 <img src="./Could_you_possibly_be_any_smarter_than_XXX/rust_borrow_checker.png" width="200" height="200" />
