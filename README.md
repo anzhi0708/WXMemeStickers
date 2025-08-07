@@ -16,6 +16,11 @@
 <img src="./Could_you_possibly_be_any_smarter_than_XXX/rust_borrow_checker.png" width="200" height="200" />
 </div>
 
+### 你还能有IDE聪明？
+<div align="center">
+<img src="./Could_you_possibly_be_any_smarter_than_XXX/jetbrains_ide.png" width="200" height="200" />
+</div>
+
 ## 无语，和你说不下去
 ### 典型的Java思维
 <div align="center">
