@@ -29,6 +29,11 @@
 <img src="./Could_you_possibly_be_any_smarter_than_XXX/guido.png" width="200" height="200" />
 </div>
 
+### 你还能有Linus聪明？
+<div align="center">
+<img src="./Could_you_possibly_be_any_smarter_than_XXX/linus.png" width="200" height="200" />
+</div>
+
 ### 你还能有借用检查器聪明？
 <div align="center">
 <img src="./Could_you_possibly_be_any_smarter_than_XXX/rust_borrow_checker.png" width="200" height="200" />
