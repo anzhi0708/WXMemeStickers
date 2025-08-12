@@ -24,11 +24,6 @@
 <img src="./Could_you_possibly_be_any_smarter_than_XXX/jetbrains_ide.png" width="200" height="200" />
 </div>
 
-### 你还能有GPT聪明？
-<div align="center">
-<img src="./Could_you_possibly_be_any_smarter_than_XXX/openai.png" width="200" height="200" />
-</div>
-
 ### 你还能有龟叔聪明？
 <div align="center">
 <img src="./Could_you_possibly_be_any_smarter_than_XXX/guido.png" width="200" height="200" />
