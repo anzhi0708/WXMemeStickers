@@ -1,5 +1,8 @@
 # WeChat Meme Stickers for Programmers
 程序员群聊表情包
+<div align="center">
+<img src="./meme.jpeg" width="150" height="150" />
+</div>
 
 ## 目录
 - [无语，和你说不下去，典型的XXX思维](https://github.com/anzhi0708/WXMemeStickers?tab=readme-ov-file#%E6%97%A0%E8%AF%AD%E5%92%8C%E4%BD%A0%E8%AF%B4%E4%B8%8D%E4%B8%8B%E5%8E%BB)
